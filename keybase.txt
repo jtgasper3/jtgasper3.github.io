@@ -1,0 +1,77 @@
+==================================================================
+https://keybase.io/jtgasper3
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jtgasper3.github.io
+  * I am jtgasper3 (https://keybase.io/jtgasper3) on keybase.
+  * I have a public key with fingerprint BB2F F64C CEA3 3C4C 5581  B070 1F60 9F58 BAFE E3EF
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.5"
+        },
+        "key": {
+            "fingerprint": "bb2ff64ccea33c4c5581b0701f609f58bafee3ef",
+            "host": "keybase.io",
+            "key_id": "1F609F58BAFEE3EF",
+            "uid": "b59ff5e7572b8654bcfd3af4093f3400",
+            "username": "jtgasper3"
+        },
+        "merkle_root": {
+            "ctime": 1423680921,
+            "hash": "4d194e2cebbf8ddb055d8f3e23e0f728be07add2dc35fcf4ada8dc5c6ff4b321d7dc824f01b6eb4bec8133c64f6db4c846d237e2b653bbf1863719a4e6d08eff",
+            "seqno": 153774
+        },
+        "service": {
+            "hostname": "jtgasper3.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1423681129,
+    "expire_in": 157680000,
+    "prev": "3d4545f3bf957e5d967afbed823be05231cc8bb566438cfc7243c809249a22d6",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+
+owFdUm1sFEUYvl6RWg2GYGyiaWi7iUSknjufu9s/AqGXIKIW0RiJOXdm3rkulNu7
+3b3SE86UgF+REBKDaSC2wRqFhEQxCESUBK0mRBP5gfxAzf3QNKixFWMMYkqdrTWK
+82tm3ud93ud5ZvYtas5kmzqeGXvyg+vfTTd9/oPIbPz6rWi7JUJVs3q2W3IggFKS
+7kr+VrB6rC1QE34MuSDsLIUKcpvjznlMtzUIURyEJYOyc06OWfXuFJ4266BUhKgc
+BSmXJQTWmlMpwSdEUsmYi4Tt2Ehz29PMFb4GIKANZX8YJzdMteY4C4Eytyhv8Hnm
+rl6V7+0lvXlTq84VBPO0ZuAwBwuXMyqkVsTX1PaIJtS2U2AM0bylzUnRj8sQkVTw
+Voi2DEAhCsM51zIJUgyimHDX9jAykvy433RRhTwKWIIQ2lVK2IwpVxPABGztYFeA
+7fhKYSUJ01JTX/mukkxyrakgGClHSRdTbSPBQVAB0kUmDU41V4JKl3KFiQNYcEbM
+CORy4iDPp8CV7YJOw4mhUgqNOEYch9bTczQYSEh1p7n9316uGCT9VfF3iOUoTEIZ
+DhhAf5KU457UfFI7UU5btoEozJMVRFBS5vX++7zIQG8IBiHsdVswVA4iKAQpgjkm
+LrPSQTBoKImijDJNhPaYA0x53PG1AOViYpJimCApXSEY55S4UksHUyLTxKnnY6z4
+v3ap0ekXDWUcFEt+Uo3Aqr/c1L4g05TNLLwpm/7fzC2ti//51PWZltlq5uKekb2v
+fbYNRk6dGx0+u+Dwwy2VnePFZ3dlv+nc/9Gmg2M3f9z3XN+RZUum4gf+xJUDmdtX
+tG5887FXakF1dPJq7US9va0tn0fH77v0SfBq5eTape9NjrWP/3r52lcdV3ZPL7/S
+m1w9+OKnJx/58Pi7S9uOtRw6c+bwQ7w8plfxe/fN3L926I4Nk7+9jerjE5fU6o67
+169Zt6O+JNu1c+WD55d1tp9d33X59++Hvti94fmG/9SXqtHgt76+3JGP79pz4Fzj
+1M+bWp8+9sIfuPLEaMcbaxYNn669M/voxEjztxeCi11901Mv3TO4d+LC8E/rZoKV
+P972/vnG/hWnu5rvmlroLL4OR3fceW32l78A
+=ZptW
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jtgasper3
+
+==================================================================
+
