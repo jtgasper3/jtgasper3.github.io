@@ -2,7 +2,6 @@
 layout: post
 tags: [unicon]
 ---
-{% include JB/setup %}
 Last month, I was featured in a Unicon, Inc. press release with a few of my fellow colleagues.
 
 Here's my highlight:

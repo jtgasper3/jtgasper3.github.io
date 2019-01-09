@@ -2,7 +2,6 @@
 layout: post
 tags: [*nix,osx]
 ---
-{% include JB/setup %}
 I love stumbling upon tidbits that make my life simpler. Colin Miller has several post on command-line hacks. Here's a couple I appreciate:
 
 - [Bashmarks](http://colintmiller.com/upgrade-your-command-line-part-1-bashmarks/)

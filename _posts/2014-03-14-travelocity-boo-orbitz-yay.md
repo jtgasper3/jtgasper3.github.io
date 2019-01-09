@@ -3,7 +3,6 @@ layout: post
 title: Travelocity, boo! Orbitz, yay!
 tags: [travel]
 ---
-{% include JB/setup %}
 So I'm wrapping up my first business trip working for Unicon. Unlike at Eastern, I was responsible for making all of my travel arrangements so I thought I'd use an online "travel agency". My first thought was back to the cute little gnome ads, which led me to Travelocity... but I was quickly disappointed.
 
 I easily booked my three flights (on two itineraries) and my rental car at my final destination. After I did this, I created a Travelocity account and wanted to link the itineraries to my account. After spending some time looking all over the Travelocity website trying to do it, I gave up. I finally called them thinking it would be a quick call. It was anything but quick or easy...
