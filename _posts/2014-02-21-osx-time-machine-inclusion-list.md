@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OS X Time Machine Inclusion List
-tags: [osx,time machine]
+tags: [osx]
 ---
 So after being a Microsoft Windows person for forever... when my new company let me choose between a PC and a Mac I decided to go with a Mac Book Pro. Almost everyone on my team was using them, so I figured why not. One of my co-workers told me about Time Machine, so it was one of the first features I enabled.
 

@@ -1,6 +1,6 @@
-- name: About <strong>John</strong>
-  link: /about.html
 - name: My <strong>Blog</strong>
   link: /blog.html
 - name: <strong>Pages</strong>
   link: /pages.html
+- name: About <strong>John</strong>
+  link: /about.html

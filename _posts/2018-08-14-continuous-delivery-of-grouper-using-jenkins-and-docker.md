@@ -9,4 +9,4 @@ I posted a new blog entry on my [Unicon](https://www.unicon.net/about/blogs/blog
 
 <!--more-->
 
-Read more: <https://www.unicon.net/about/blogs/continuous-delivery-grouper-using-jenkins-and-docker>
+Read more at <https://www.unicon.net/about/blogs/continuous-delivery-grouper-using-jenkins-and-docker>
