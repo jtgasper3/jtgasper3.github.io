@@ -88,7 +88,7 @@ I have experience with the following “vendor” groupings:
 
 - Development: Groovy, Python
 - Hardware: Android, Arduino, Raspberry Pi
-- Podcast: .NET Rocks, Security Now, Stuff You Should Know, Stuff You Missed In History Class, TWiT
+- Podcast: Security Now, Lets Talk BitCoin, Radio Free Mormon, Defensive Security, Mormon Discussions, DevOps Radio, .NET Rocks, Mobycast
 - Sports: Basketball, Volleyball
 
 ---
