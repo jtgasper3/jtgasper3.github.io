@@ -11,6 +11,8 @@ Here’s me in a nutshell…
 
 John loves tech, his wife and his kids… not necessarily in that order. He’s a military brat that started life in Germany, moved all around the United States as a kid, and settled down in eastern Washington (state).
 
+My work life as mostly focused on information technology in higher education. I have done almost it all.
+
 ---
 
 ## Work History
@@ -89,7 +91,7 @@ I have experience with the following “vendor” groupings:
 - Development: Groovy, Python
 - Hardware: Android, Arduino, Raspberry Pi
 - Podcast: Security Now, Lets Talk BitCoin, Radio Free Mormon, Defensive Security, Mormon Discussions, DevOps Radio, .NET Rocks, Mobycast
-- Sports: Basketball, Volleyball
+- Sports: Volletball, Basketball, Tennis
 
 ---
 
