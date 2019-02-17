@@ -21,12 +21,12 @@ Brew recipes that I use:
 
 Other OS X I install:
 
-- Alfred 3
-- App Cleaner
+- [Alfred 3](https://www.alfredapp.com)
+- [App Cleaner](https://freemacsoft.net/appcleaner/)
 - balenaEtcher
 - Bartender 3
 - GPG Keychain
 - HandBrake
-- iTerm
+- [iTerm2](https://www.iterm2.com)
 - SD Card Formatter
 - SizeUp

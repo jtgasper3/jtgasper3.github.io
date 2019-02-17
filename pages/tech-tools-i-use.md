@@ -4,9 +4,9 @@ title: Tech Tools I Use
 ---
 
 - Apache Directory Studio
-- Docker Desktop
+- [Docker Desktop](https://www.docker.com/products/docker-desktop)
 - IntelliJ IDEA
 - Oracle SQL Developer
 - Postman
-- SourceTree
-- Visual Studio Code
+- [SourceTree](https://www.sourcetreeapp.com)
+- [Visual Studio Code](https://code.visualstudio.com)
