@@ -17,15 +17,17 @@ My work life as mostly focused on information technology in higher education. I 
 
 ## Work History
 
-### Unicon, Inc (December 2014-Current)
+### Unicon, Inc (December 2013-Current)
 
-**IAM Consultant/DevOps Architect**  
+**IAM/DevOps Architect/Consultant**  
 **Summary:** Installs and supports CAS, Shibboleth, and Grouper; trains and consults on Docker and DevOps  
 **Highlights:**
 
 - Implemented the TIER Grouper Docker image
-- Implemented CAS server using the JDBC, Hazelcast, and Ehcache Ticket Registries; JSON and JDBC Services Registry; ClearPass & LPPE
+- Architected the functional side of a hosted/SaaS-like Shibboleth IdP service.
+- Deployed Apereo CAS server using the JDBC, Hazelcast, and Ehcache Ticket Registries; JSON and JDBC Services Registry; ClearPass & LPPE
 - Developed a Google Groups provisioner for Internet2 Grouper.
+- Developed a 2 day training course on Docker, Docker Swarm, and Jenkins
 - Office 365 integration directly with the Shibboleth IdP.
 - Office 365 ingration with ADFS and ADFS integrated with Shibboleth IdP.
 
@@ -38,7 +40,7 @@ My work life as mostly focused on information technology in higher education. I 
 - Managed various team of developers, web server administrators, and database administrators.
 - Lead initative to cluster application servers to provide highly available web applications.
 - Automated the account provisioning for ~200K user accounts and groups.
-- Led the charge on Single Sign-On (SSO), which now has more than 70 client applications.
+- Led the charge on Single Sign-On (SSO), which had more than 70 client applications when I left.
 - Integrated Jasig’s CAS and Micrsoft’s ADFS v2.0 to form a single SSO environment.
 - Implemented Eduroam using Microsoft NPS.
 - Managed the university’s enrollment in InCommon.
@@ -51,6 +53,7 @@ My work life as mostly focused on information technology in higher education. I 
 
 - Bachelor of Computer Science, Eastern Washington University (June 2002)
 - Docker Certified Associate (October 2018)
+- [Amateur Radio License](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=734486) (June )
 
 ---
 
@@ -66,22 +69,23 @@ I have experience in the following generic catagories:
 
 I have experience with the following “vendor” groupings:
 
-- Apache: httpd administration, JMeter Script development, Tomcat administration
-- Apereo: CAS Server administration and development
+- Apache: httpd administration, JMeter script development, Tomcat administration
+- Apereo: CAS Server administration, contributor, and development
 - Cisco: IP Phone Services development
 - Ellucian: Banner Enterprise Identity Services administration, Luminis Server administration, Self-Service Banner administration and development
-- Internet2: Grouper
-- Jasig: CAS Server administration, contributor, and development
-- Microsoft: Active Directory administration, Active Directory Federation Services administration, ASP.NET development, IIS administration, Identity Lifecylce Manager administration and development, Network Policy Server administration, SharePoint administration, SQL Server administration, Windows Server administration
+- Docker: Docker Engine administation, Docker image development, Docker Swarm administation
+- Internet2: Grouper development and administration
+- Microsoft: Active Directory (AD) administration, Active Directory Federation Services (ADFS) administration, ASP.NET development, IIS administration, Identity Lifecylce Manager (ILM) administration and development, Network Policy Server (NPS) administration, SharePoint administration, SQL Server administration, Windows Server administration
 - Oracle: mod_plsql development, WebLogic Server/Fusion Middleware administration, basic Oracle database administration
-- Shibboleth Consortium: Shibboleth IdP and SP administration
+- Shibboleth Consortium: Shibboleth IdP administration and development, SP administration
 - Uninett: SimpleSAMLphp administration and developement
-- Misc Stuff: Ansible, Jenkins administration, JQuery, GnuPG, X.509 certificates
+- Misc Stuff: Ansible management, Fluentd management, GnuPG, Jenkins administration, JQuery, Log4j/Logback, X.509 certificates
 
 ---
 
 ## Pet Projects
 
+- avus framework - author
 - cas-server-support-wsfederation - initial developer
 
 ---
@@ -97,5 +101,6 @@ I have experience with the following “vendor” groupings:
 
 ## Volunteer Work
 
-- The View Talent Agency - IT support and website development
-- West Plains Arts Academy - General IT consulting
+- The View Talent Agency LLC - IT support and website development
+- West Plains Arts Academy (501c3) - General IT consulting
+- Mormon Discussions Podcast Network (501c3) - General IT consulting
