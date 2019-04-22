@@ -1,6 +1,6 @@
 ---
 layout: page
-Title: Setting up a Lightning Node on a Raspberry Pi
+title: Setting up a Lightning Node on a Raspberry Pi
 ---
 
 ## Prerequisites
