@@ -3,8 +3,6 @@ layout: page
 Title: Setting up a Lightning Node on a Raspberry Pi
 ---
 
-# Setting up a Lightning Node on a Raspberry Pi
-
 ## Prerequisites
 
 ### Add a new users
