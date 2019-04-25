@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World
-tags: ["intro"]
+tags: [intro]
 ---
 
 Hello world,
