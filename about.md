@@ -29,7 +29,7 @@ My work life as mostly focused on information technology in higher education. I 
 - Developed a Google Groups provisioner for Internet2 Grouper.
 - Developed a 2 day training course on Docker, Docker Swarm, and Jenkins
 - Office 365 integration directly with the Shibboleth IdP.
-- Office 365 ingration with ADFS and ADFS integrated with Shibboleth IdP.
+- Office 365 integration with ADFS and ADFS integrated with Shibboleth IdP.
 
 ### Eastern Washington University (November 2000-December 2013)
 
@@ -38,10 +38,10 @@ My work life as mostly focused on information technology in higher education. I 
 **Highlights:**
 
 - Managed various team of developers, web server administrators, and database administrators.
-- Lead initative to cluster application servers to provide highly available web applications.
+- Lead initiative to cluster application servers to provide highly available web applications.
 - Automated the account provisioning for ~200K user accounts and groups.
 - Led the charge on Single Sign-On (SSO), which had more than 70 client applications when I left.
-- Integrated Jasig’s CAS and Micrsoft’s ADFS v2.0 to form a single SSO environment.
+- Integrated Jasig’s CAS and Microsoft’s ADFS v2.0 to form a single SSO environment.
 - Implemented Eduroam using Microsoft NPS.
 - Managed the university’s enrollment in InCommon.
 - Developed web frontend (ASP.NET-based) to allow dept heads to manage shared departmental storage (folder creation, permission assignments)
@@ -65,7 +65,7 @@ I have experience in the following generic catagories:
 - Languages: C#, Java, JavaScript, PHP, pl/sql, PowerShell, Python, VB.NET
 - Operating Systems: Windows, OS X, Linux
 - Containers & Orchestrations: Docker, Docker Swarm, Kubernetes
-- Cloud Providers: Amazon Web Sercices (API Gateway, DynamoDB, ECS, EKS, Lambda, SNS, SQS), Digital Ocean, Google Cloud Platform (Container Registry, Kubernetes Engine, Load Balancer), Microsoft Azure (Azure AD)
+- Cloud Providers: Amazon Web Services (API Gateway, DynamoDB, ECS, EKS, Lambda, SNS, SQS), Digital Ocean, Google Cloud Platform (Container Registry, Kubernetes Engine, Load Balancer), Microsoft Azure (Azure AD)
 
 I have experience with the following “vendor” groupings:
 
@@ -73,12 +73,12 @@ I have experience with the following “vendor” groupings:
 - Apereo: CAS Server administration, contributor, and development
 - Cisco: IP Phone Services development
 - Ellucian: Banner Enterprise Identity Services administration, Luminis Server administration, Self-Service Banner administration and development
-- Docker: Docker Engine administation, Docker image development, Docker Swarm administation
+- Docker: Docker Engine administration, Docker image development, Docker Swarm administration
 - Internet2: Grouper development and administration
-- Microsoft: Active Directory (AD) administration, Active Directory Federation Services (ADFS) administration, ASP.NET development, IIS administration, Identity Lifecylce Manager (ILM) administration and development, Network Policy Server (NPS) administration, SharePoint administration, SQL Server administration, Windows Server administration
+- Microsoft: Active Directory (AD) administration, Active Directory Federation Services (ADFS) administration, ASP.NET development, IIS administration, Identity Lifecycle Manager (ILM) administration and development, Network Policy Server (NPS) administration, SharePoint administration, SQL Server administration, Windows Server administration
 - Oracle: mod_plsql development, WebLogic Server/Fusion Middleware administration, basic Oracle database administration
 - Shibboleth Consortium: Shibboleth IdP administration and development, SP administration
-- Uninett: SimpleSAMLphp administration and developement
+- Uninett: SimpleSAMLphp administration and development
 - Misc Stuff: Ansible management, Fluentd management, GnuPG, Jenkins administration, JQuery, Log4j/Logback, X.509 certificates
 
 ---
@@ -95,7 +95,7 @@ I have experience with the following “vendor” groupings:
 - Development: Groovy, Python
 - Hardware: Android, Arduino, Raspberry Pi
 - Podcast: Security Now, Lets Talk BitCoin, Radio Free Mormon, Defensive Security, Mormon Discussions, DevOps Radio, .NET Rocks, Mobycast
-- Sports: Volletball, Basketball, Tennis
+- Sports: Volleyball, Basketball, Tennis
 
 ---
 
