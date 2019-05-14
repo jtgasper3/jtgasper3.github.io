@@ -28,6 +28,11 @@ $allowed_ext = ".mp4,.MP4,.mp3,.MP3";
 		<link><?=$feedURL?></link>
 		<description><?=$feedDesc?></description>
 		<atom:link href="http://gogglesoptional.com/bloopers" rel="self" type="application/rss+xml" />
+		<image>
+			<title>Chapter 5</title>
+			<link>https://jtgasper3.github.io/ch5/rss.xml</link>
+		</image>
+		<ttl>1440</ttl>
 <?
 $files = scandir("./");
 sort($files);
@@ -51,6 +56,7 @@ for($i=0; $i<count($files); $i++) {
 		echo "		<title>". $files[$i]['name'] ."</title>\n";
 		echo "		<link>". $feedBaseURL . $files[$i]['name'] . "</link>\n";
 		echo "		<guid>". $feedBaseURL . $files[$i]['name'] . "</guid>\n";
+		echo '    <enclosure url="'. $feedBaseURL . $files[$i]['name'] . '" length="0" type="audio/mpeg"/>';
 //		echo "		<pubDate>". date("D M j G:i:s T Y", $files[$i]['timestamp']) ."</pubDate>\n";
 //		echo "		<pubDate>" . $files[$i]['timestamp'] ."</pubDate>\n";
 
