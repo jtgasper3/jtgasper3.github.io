@@ -9,6 +9,10 @@ d=1
 while wget "https://media.pearsoncmg.com/ph/chet/chet_mymedtermlab/turley4e/lecture/turley_ch05_lecture/data/sound$d.mp3"; do
     ((d++))
 done
+
+docker run -it -v $(pwd):/tmper php bash
+cd /tmper
+php index.php
 */
 $feedName = "Chapter 5";
 $feedDesc = "Who is the best guy in the world";
