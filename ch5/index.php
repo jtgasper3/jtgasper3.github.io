@@ -13,6 +13,8 @@ done
 docker run -it -v $(pwd):/tmper php bash
 cd /tmper
 php index.php
+
+Chapter 18 and Chapter 4
 */
 $feedName = "Chapter 5";
 $feedDesc = "Who is the best guy in the world";
