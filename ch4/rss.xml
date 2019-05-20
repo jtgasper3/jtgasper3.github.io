@@ -5,12 +5,10 @@
 		<link>https://jtgasper3.github.io/ch4</link>
 		<description>Who is the best guy in the world</description>
 		<image>
-			<title>Chapter 5</title>
-			<link>https://jtgasper3.github.io/ch5/rss.xml</link>
+			<title>Chapter 54</title>
+			<link>https://jtgasper3.github.io/ch4/rss.xml</link>
 		</image>
 		<ttl>180</ttl>
-
-Warning: closedir() expects parameter 1 to be resource, null given in /tmper/index.php on line 52
 	<item>
 		<title>sound001.mp3</title>
 		<link>https://jtgasper3.github.io/ch4/sound001.mp3</link>
