@@ -15,7 +15,7 @@ title: Clients
   - Sacramento
 - Carleton College
 - Carleton University
-- Chabot Las Postitas Community College District
+- Chabot Las Positas Community College District
 - College of the Siskiyous
 - Colorado School of Mines\*
 - Columbia University\*
@@ -47,9 +47,12 @@ title: Clients
   - Merced
   - Riverside
   - Santa Cruz
+- University of Colorado, Boulder\*
 - University of Utah
 - University of Nebraska
 - University of Wisconsin
 - Vassar College
 - Washington State University
 - Woods Hole Oceanographic Institute
+
+\* - On-site 
