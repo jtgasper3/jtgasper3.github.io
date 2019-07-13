@@ -34,6 +34,7 @@ These notes are mostly to remind myself of the various airports, but maybe helpf
 # Oakland (OAK)
 
 - Last flight to Spokane does not have TSA Precheck open
+- Solid free WiFi
 
 # Orlando (MCO)
 
