@@ -165,7 +165,7 @@ Setup the drive for auto mounting after restart by adding the following with `su
 1. Install (Update the version from https://bitcoincore.org/bin/):
 
    ```sh
-   BITCOIND_VERSION=0.17.1
+   BITCOIND_VERSION=0.18.1
    ARCH=arm-linux-gnueabihf
    BITCOIND_ARCHIVE=bitcoin-${BITCOIND_VERSION}-${ARCH}.tar.gz
    cd /tmp \
