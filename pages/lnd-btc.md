@@ -3,6 +3,11 @@ layout: page
 title: Setting up a Lightning Node on a Raspberry Pi
 ---
 
+## Latest Versions
+
+- https://bitcoincore.org/bin/
+- https://github.com/lightningnetwork/lnd/releases
+
 ## Prerequisites
 
 ### Add a new users
@@ -352,6 +357,10 @@ Setup the drive for auto mounting after restart by adding the following with `su
    ```sh
    sudo journalctl -f -u lnd
    ```
+
+## Future
+
+https://github.com/KanoczTomas/01Cnode
 
 ## References
 
