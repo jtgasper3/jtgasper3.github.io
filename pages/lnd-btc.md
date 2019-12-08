@@ -165,7 +165,7 @@ Setup the drive for auto mounting after restart by adding the following with `su
 1. Install (Update the version from https://bitcoincore.org/bin/):
 
    ```sh
-   BITCOIND_VERSION=0.18.1
+   BITCOIND_VERSION=0.19.0.1
    ARCH=arm-linux-gnueabihf
    BITCOIND_ARCHIVE=bitcoin-${BITCOIND_VERSION}-${ARCH}.tar.gz
    cd /tmp \
@@ -179,7 +179,7 @@ Setup the drive for auto mounting after restart by adding the following with `su
    && gpg --verify SHA256SUMS.asc \
    && tar -xzf ${BITCOIND_ARCHIVE} \
    && sudo install -m 0755 -o root -g root -t /usr/local/bin bitcoin-${BITCOIND_VERSION}/bin/* \
-   && rm -rf /tmp/* \
+   && rm -rf /tmp/bitcoin-core-${BITCOIND_VERSION}/${BITCOIND_ARCHIVE} /tmp/bitcoin-core-${BITCOIND_VERSION}/SHA256SUMS.asc \
    && bitcoind --version
    ```
 
@@ -275,7 +275,7 @@ Setup the drive for auto mounting after restart by adding the following with `su
 1. Install (Update the version from https://github.com/lightningnetwork/lnd/releases)
 
    ```sh
-   LND_VERSION=v0.5.1-beta
+   LND_VERSION=v0.8.2-beta-rc2
    ARCH=linux-armv7
    LND_ARCHIVE=lnd-${ARCH}-${LND_VERSION}.tar.gz
    cd /tmp \
@@ -291,17 +291,17 @@ Setup the drive for auto mounting after restart by adding the following with `su
        && gpg --verify manifest-${LND_VERSION}.txt.sig \
        && tar -xzf ${LND_ARCHIVE} \
        && sudo install -m 0755 -o root -g root -t /usr/local/bin lnd-${ARCH}-${LND_VERSION}/* \
-       && rm -rf /tmp/* \
+       && rm -rf /tmp/${LND_ARCHIVE}* /tmp/manifest-${LND_VERSION}* \
        && lnd --version
    ```
 
-1. Verify the configuratio, run:
+1. Verify the configuration, run:
 
    ```sh
    lnd
    ```
 
-1. In a seperate ssh instance with the working account, create a new LND wallet:
+1. In a separate ssh instance with the working account, create a new LND wallet:
 
    ```sh
    lncli create
