@@ -170,7 +170,7 @@ Setup the drive for auto mounting after restart by adding the following with `su
 1. Install (Update the version from https://bitcoincore.org/bin/):
 
    ```sh
-   BITCOIND_VERSION=0.19.0.1
+   BITCOIND_VERSION=0.19.1
    ARCH=arm-linux-gnueabihf
    BITCOIND_ARCHIVE=bitcoin-${BITCOIND_VERSION}-${ARCH}.tar.gz
    cd /tmp \
@@ -280,7 +280,7 @@ Setup the drive for auto mounting after restart by adding the following with `su
 1. Install (Update the version from https://github.com/lightningnetwork/lnd/releases)
 
    ```sh
-   LND_VERSION=v0.8.2-beta-rc2
+   LND_VERSION=v0.9.2-beta
    ARCH=linux-armv7
    LND_ARCHIVE=lnd-${ARCH}-${LND_VERSION}.tar.gz
    cd /tmp \
