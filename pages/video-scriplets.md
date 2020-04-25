@@ -11,12 +11,12 @@ To install them:
 
 1. If not already enabled, turn on the browser's Favorites/Bookmark toolbar. ([How do I enable the toolbar?](https://www.computerhope.com/issues/ch001917.htm)).
 1. Drag one or more links onto the Bookmark Bar:
-    - [Video: -15s](javascript:document.querySelector("video").currentTime=document.querySelector("video").currentTime-15)
-    - [Video: -10s](javascript:document.querySelector("video").currentTime=document.querySelector("video").currentTime-10)
-    - [Video: -5s](javascript:document.querySelector("video").currentTime=document.querySelector("video").currentTime-5)
-    - [Video: +5s](javascript:document.querySelector("video").currentTime=document.querySelector("video").currentTime+5)
-    - [Video: +10s](javascript:document.querySelector("video").currentTime=document.querySelector("video").currentTime+10)
-    - [Video: +15s](javascript:document.querySelector("video").currentTime=document.querySelector("video").currentTime+15)
+    - [Video: -15s](javascript:document.querySelector("video").currentTime-=15)
+    - [Video: -10s](javascript:document.querySelector("video").currentTime-=10)
+    - [Video: -5s](javascript:document.querySelector("video").currentTime-=5)
+    - [Video: +5s](javascript:document.querySelector("video").currentTime+=5)
+    - [Video: +10s](javascript:document.querySelector("video").currentTime+=10)
+    - [Video: +15s](javascript:document.querySelector("video").currentTime+=15)
 1. Now they are installed.
 
 To use them:
