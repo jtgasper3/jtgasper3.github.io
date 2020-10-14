@@ -17,11 +17,11 @@ To install them:
     - [Video: +5s](javascript:document.querySelector("video").currentTime+=5)
     - [Video: +10s](javascript:document.querySelector("video").currentTime+=10)
     - [Video: +15s](javascript:document.querySelector("video").currentTime+=15)
-    - [Video: x1.0](javascript:document.querySelector("video").playbackRate=1.0)
-    - [Video: x2.0](javascript:document.querySelector("video").playbackRate=2.0)
-    - [Video: x2.5](javascript:document.querySelector("video").playbackRate=2.5)
-    - [Video: x3.0](javascript:document.querySelector("video").playbackRate=3.0)
-    - [Video: x3.5](javascript:document.querySelector("video").playbackRate=3.5)
+    - [Video: 1.0x](javascript:document.querySelector("video").playbackRate=1.0)
+    - [Video: 2.0x](javascript:document.querySelector("video").playbackRate=2.0)
+    - [Video: 2.5x](javascript:document.querySelector("video").playbackRate=2.5)
+    - [Video: 3.0x](javascript:document.querySelector("video").playbackRate=3.0)
+    - [Video: 3.5x](javascript:document.querySelector("video").playbackRate=3.5)
 1. Now they are installed.
 
 To use them:
