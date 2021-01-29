@@ -15,6 +15,7 @@ title: Clients
   - Sacramento
 - Carleton College
 - Carleton University
+- Central New Mexico Community College
 - Chabot Las Positas Community College District
 - College of the Siskiyous
 - Colorado School of Mines\*
@@ -47,6 +48,7 @@ title: Clients
   - Merced
   - Riverside
   - Santa Cruz
+- University of Chicago
 - University of Colorado, Boulder\*
 - University of Utah
 - University of Nebraska
