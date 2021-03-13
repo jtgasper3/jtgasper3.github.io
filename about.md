@@ -17,7 +17,18 @@ My work life as mostly focused on information technology in higher education. I 
 
 ## Work History
 
-### Unicon, Inc (December 2013-Current)
+### Unicon, Inc (July 2019-Current)
+
+**IAM Application Developer**  
+**Summary:** Focused on directory (LDAP) data aalysis and clean-up; Vue.js/Java Development  
+**Highlights:**
+
+- Developing a replacement CalNet Directory Update application using Vue.js, Java, and Spring Boot.
+- Removing 100+ directory schema attributes
+- Identifying and fixing various data integrity issues with the CalNet directory data.
+- Any thing else asked of me.
+
+### Unicon, Inc (December 2013-July 2019)
 
 **IAM/DevOps Architect/Consultant**  
 **Summary:** Installs and supports CAS, Shibboleth, and Grouper; trains and consults on Docker and DevOps  
