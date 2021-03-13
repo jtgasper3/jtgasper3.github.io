@@ -7,9 +7,9 @@ Here’s me in a nutshell…
 
 ## Summary
 
-John loves tech, his wife and his kids… not necessarily in that order. He’s a military brat that started life in Germany, moved all around the United States as a kid, and settled down in eastern Washington (state).
+John loves tech, his wife and his children… not necessarily in that order. He’s a military brat that started life in Germany, moved all around the United States as a kid, and settled down in eastern Washington (state).
 
-My work life as mostly focused on information technology in higher education. I have done almost it all, but most recently focused on identity and access management and DevOps and containerization.
+My work life as mostly focused on information technology in higher education. I have done almost it all, but have most recently focused on identity and access management and DevOps and containerization.
 
 ---
 
