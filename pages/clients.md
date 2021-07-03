@@ -39,6 +39,7 @@ title: Clients
 - Stetson University
 - Tacoma Community College
 - Tulsa Community College\*
+- University of Alaska
 - University of California:
   - Office of the President
   - Berkeley\*
@@ -48,7 +49,6 @@ title: Clients
   - Merced
   - Riverside
   - Santa Cruz
-- University of Alaska
 - University of Chicago
 - University of Colorado, Boulder\*
 - University of Utah
