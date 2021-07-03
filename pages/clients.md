@@ -48,6 +48,7 @@ title: Clients
   - Merced
   - Riverside
   - Santa Cruz
+- University of Alaska
 - University of Chicago
 - University of Colorado, Boulder\*
 - University of Utah
