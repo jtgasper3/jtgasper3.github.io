@@ -18,7 +18,7 @@ My work life as mostly focused on information technology in higher education. I 
 ### Yale University (August 2021-Current)
 
 **IAM Architect**  
-**Summary:** Providing a vision for the future of IAM at Yale University
+**Summary:** Providing a vision for the future of IAM at Yale University  
 **Highlights:**
 
 - Expanding †he footprint of key services to both on-prem and cloud for high availability to a global community
