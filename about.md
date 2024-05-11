@@ -15,7 +15,7 @@ My work life as mostly focused on information technology in higher education. I 
 
 ## Work History
 
-### Unicon, Inc (July 2019-Current)
+### University of California, Berkeley (July 2019-Current)
 
 **IAM Application Developer**  
 **Summary:** Focused on directory (LDAP) data aalysis and clean-up; Vue.js/Java Development  
