@@ -15,7 +15,18 @@ My work life as mostly focused on information technology in higher education. I 
 
 ## Work History
 
-### University of California, Berkeley (July 2019-Current)
+### Yale University (August 2021-Current)
+
+**IAM Architect**  
+**Summary:** Providing a vision for the future of IAM at Yale University
+**Highlights:**
+
+- Expanding †he footprint of key services to both on-prem and cloud for high availability to a global community
+- Supporting Apereo CAS, Shibboleth IdP, Microsoft Entra ID (formerly Azure Active Directory), Internet2 Grouper, and SailPoint Identity IQ
+- Modernizing our devops practices
+- Encouraging individual and teams to make good IAM-related decisions
+
+### University of California, Berkeley (July 2019-Aug 2021)
 
 **IAM Application Developer**  
 **Summary:** Focused on directory (LDAP) data aalysis and clean-up; Vue.js/Java Development  
