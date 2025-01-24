@@ -21,8 +21,9 @@ My work life as mostly focused on information technology in higher education. I 
 **Summary:** Providing a vision for the future of IAM at Yale University  
 **Highlights:**
 
-- Expanding †he footprint of key services to both on-prem and cloud for high availability to a global community
-- Supporting Apereo CAS, Shibboleth IdP, Microsoft Entra ID (formerly Azure Active Directory), Internet2 Grouper, and SailPoint Identity IQ
+- Led the technical rollout of FIDO2 passkey technology for our high-risk users.
+- Expanded the footprint of CAS Server and Shibboleth IdP services to both on-prem and cloud providing high availability to a global community
+- Supporting Apereo CAS, Shibboleth IdP, Microsoft Entra ID (formerly Azure Active Directory), Internet2 Grouper, and SailPoint IdentityIQ
 - Modernizing our devops practices
 - Encouraging individual and teams to make good IAM-related decisions
 
@@ -43,7 +44,7 @@ My work life as mostly focused on information technology in higher education. I 
 **Summary:** Installs and supports CAS, Shibboleth, and Grouper; trains and consults on Docker and DevOps  
 **Highlights:**
 
-- Implemented the TIER Grouper Docker image
+- Implemented the TIER Grouper Docker image used by the Internet 2 community
 - Architected the functional side of a hosted/SaaS-like Shibboleth IdP service.
 - Deployed Apereo CAS server using the JDBC, Hazelcast, and Ehcache Ticket Registries; JSON and JDBC Services Registry; ClearPass & LPPE
 - Developed a Google Groups provisioner for Internet2 Grouper.
@@ -73,19 +74,24 @@ My work life as mostly focused on information technology in higher education. I 
 
 - Bachelor of Computer Science, Eastern Washington University (June 2002)
 - Docker Certified Associate (October 2018)
-- [Amateur Radio License](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=734486) (June )
+- [Amateur Radio License](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=734486) (June 1992?)
 
 ---
 
 ## Skills/Technology
 
-I have experience in the following generic catagories:
+I have experience in the following generic categories:
 
 - IAM protocols: CAS, SAML, OIDC
-- Languages: C#, Java, JavaScript, PHP, pl/sql, PowerShell, Python, VB.NET
+- Languages: C#, Groovy, Java, JavaScript, PHP, pl/sql, PowerShell, Python, SQL, TypeScript, VB.NET
 - Operating Systems: Windows, OS X, Linux
 - Containers & Orchestrations: Docker, Docker Swarm, Kubernetes
-- Cloud Providers: Amazon Web Services (API Gateway, DynamoDB, ECS, EKS, Lambda, SNS, SQS), Digital Ocean, Google Cloud Platform (Container Registry, Kubernetes Engine, Load Balancer), Microsoft Azure (Azure AD)
+- CI/CD: Dagger.io, GitHub Actions, Jenkins.io
+- Cloud Providers:
+    - Amazon Web Services (API Gateway, DynamoDB, ECS, EKS, Lambda, SNS, SQS)
+    - Digital Ocean
+    - Google Cloud Platform (Container Registry, Kubernetes Engine, Load Balancer, Firestore Firebase, CloudRun Functions)
+    - Microsoft Azure (Azure Static Web Apps)
 
 I have experience with the following “vendor” groupings:
 
@@ -112,15 +118,15 @@ I have experience with the following “vendor” groupings:
 
 ## Hobbies
 
-- Development: Groovy, Python
-- Hardware: Android, Arduino, Raspberry Pi
-- Podcast: Security Now, Lets Talk BitCoin, Radio Free Mormon, Defensive Security, Mormon Discussions, DevOps Radio, .NET Rocks, Mobycast
-- Sports: Volleyball, Basketball, Tennis
+- Hardware: Arduino, Raspberry Pi, Turing Pi
+- Podcast: Security Now, Radio Free Mormon, 
+- Sports: Running, Volleyball, Basketball, Tennis
 
 ---
 
 ## Volunteer Work
 
-- The View Talent Agency LLC - IT support and website development
-- West Plains Arts Academy (501c3) - General IT consulting
 - Mormon Discussions Podcast Network (501c3) - General IT consulting
+- The View Talent Agency LLC - IT support and website development (past)
+- West Plains Arts Academy (501c3) - General IT consulting (past)
+
