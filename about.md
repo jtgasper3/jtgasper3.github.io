@@ -27,6 +27,14 @@ My work life as mostly focused on information technology in higher education. I 
 - Modernizing our devops practices
 - Encouraging individual and teams to make good IAM-related decisions
 
+### Delran Solutions LLC (April 2021-Current)
+
+**Owner**
+**Summary:** Develops bespoke solutions for individuals and companies that have a need.
+**Highlights:**
+
+- Developed and enhancing a web-based application that allows teachers to make study hall assignments, seeing each other updates in real-time. Assignments are mass emailed to students each school day.
+
 ### University of California, Berkeley (July 2019-Aug 2021)
 
 **IAM Application Developer**  
@@ -82,16 +90,19 @@ My work life as mostly focused on information technology in higher education. I 
 
 I have experience in the following generic categories:
 
-- IAM protocols: CAS, SAML, OIDC
+- IAM protocols: CAS, SAML, OAuth, OIDC, SCIM
 - Languages: C#, Groovy, Java, JavaScript, PHP, pl/sql, PowerShell, Python, SQL, TypeScript, VB.NET
-- Operating Systems: Windows, OS X, Linux
+- Operating Systems: OS X, Linux, Windows
 - Containers & Orchestrations: Docker, Docker Swarm, Kubernetes
+- Front-end Clients: Vue.JS/Nuxt.js/Vuetify, JQuery
 - CI/CD: Dagger.io, GitHub Actions, Jenkins.io
 - Cloud Providers:
-    - Amazon Web Services (API Gateway, DynamoDB, ECS, EKS, Lambda, SNS, SQS)
-    - Digital Ocean
-    - Google Cloud Platform (Container Registry, Kubernetes Engine, Load Balancer, Firestore Firebase, CloudRun Functions)
-    - Microsoft Azure (Azure Static Web Apps)
+    - Amazon Web Services: API Gateway, CloudWatch, DynamoDB, EC2, ECR, ECS, EFS, EKS, Lambda, S3, SNS, SQS
+    - Digital Ocean: Droplets, Kubernetes
+    - Google Cloud Platform: Container Registry, Kubernetes Engine, Load Balancer, Firebase Firestore, CloudRun Functions
+    - Microsoft Azure: Azure Static Web Apps, Azure Functions
+- Databases: Microsoft SQL Server, Oracle, MySQL/MariaDB, PostgreSQL
+- Event Streaming and Messaging Queues: Apache Kafka, Eclipse Mosquitto (MQTT), NATS.io
 
 I have experience with the following “vendor” groupings:
 
@@ -105,7 +116,7 @@ I have experience with the following “vendor” groupings:
 - Oracle: mod_plsql development, WebLogic Server/Fusion Middleware administration, basic Oracle database administration
 - Shibboleth Consortium: Shibboleth IdP administration and development, SP administration
 - Uninett: SimpleSAMLphp administration and development
-- Misc Stuff: Ansible management, Fluentd management, GnuPG, Jenkins administration, JQuery, Log4j/Logback, X.509 certificates
+- Misc Stuff: Ansible management, Fluentd management, GnuPG, Jenkins administration, Log4j/Logback, X.509 certificates
 
 ---
 
@@ -118,8 +129,8 @@ I have experience with the following “vendor” groupings:
 
 ## Hobbies
 
-- Hardware: Arduino, Raspberry Pi, Turing Pi
-- Podcast: Security Now, Radio Free Mormon, 
+- Hardware: [Raspberry Pi](https://www.raspberrypi.com/), [Turing RK1](https://turingpi.com/product/turing-rk1), [Turing Pi](https://turingpi.com/product/turing-pi-2-5/)
+- Podcast: [Security Now](https://twit.tv/shows/security-now), [Radio Free Mormon](https://radiofreemormon.org/), Data Over Dogma, [Hidden True Crime](https://hiddentruecrime.com/), [Yale Bee Cyber Fit](https://cybersecurity.yale.edu/podcast)
 - Sports: Running, Volleyball, Basketball, Tennis
 
 ---
